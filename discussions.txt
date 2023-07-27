@@ -1,0 +1,21 @@
+Email Handling:
+    https://mailtrap.io/blog/email-headers/
+    SMTP protocols and agents.
+        https://web.karabuk.edu.tr/bilalkaya/file/smtp_pdf.pdf
+        https://www.citchennai.edu.in/wp-content/uploads/2021/12/CN-UNIT-V.pdf
+        https://www.youtube.com/watch?v=x28ciavQ4mI&ab_channel=CenterforCybersecurityInnovation%26Outreach
+    code
+    Attack vector
+        spf spoof
+            https://www.kitterman.com/spf/validate.html
+
+Disk analysis:
+    Forensic backgroud
+    Games with virtual CD loader : daemon tools if used.
+
+Use of Computer Forensics in Law Enforcement,
+    FTK Imager : https://www.youtube.com/watch?v=TkG4JqUcx_U&ab_channel=DFIRScience
+    dd command.
+
+WiFi:
+    aircrack-ng tool

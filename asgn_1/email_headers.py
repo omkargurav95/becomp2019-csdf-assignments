@@ -3,7 +3,6 @@ import sys
 
 def process_part(part):
     content_type = part.get_content_type()
-    content_disposition = str(part.get("Content-Disposition"))
 
     if "text/plain" in content_type:
         return part.get_payload(decode=True).decode()
