@@ -1,5 +1,6 @@
 from PIL import Image
 
+
 def extract_exif_data(image_path):
     with Image.open(image_path) as img:
         exif_data = img._getexif()
@@ -10,6 +11,6 @@ def extract_exif_data(image_path):
         else:
             print("No EXIF data found.")
 
-if __name__ == "__main__":
-    input_image_path = "img_1771.jpg"
-    extract_exif_data(input_image_path)
+# if __name__ == "__main__":
+#     input_image_path = "img_1771.jpg"
+#     extract_exif_data(input_image_path)

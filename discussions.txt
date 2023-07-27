@@ -4,18 +4,37 @@ Email Handling:
         https://web.karabuk.edu.tr/bilalkaya/file/smtp_pdf.pdf
         https://www.citchennai.edu.in/wp-content/uploads/2021/12/CN-UNIT-V.pdf
         https://www.youtube.com/watch?v=x28ciavQ4mI&ab_channel=CenterforCybersecurityInnovation%26Outreach
-    code
+    asgn1
     Attack vector
         spf spoof
             https://www.kitterman.com/spf/validate.html
+Captcha:
+    https://www.makeuseof.com/tag/how-do-captchas-work/#:~:text=It's%20because%20computers%20find%20it,to%20further%20obscure%20the%20message.
+    asgn2
+    Attack vector:
+    https://geekflare.com/captcha-solving-services-api/
+
 
 Disk analysis:
-    Forensic backgroud
-    Games with virtual CD loader : daemon tools if used.
+    Forensic background
+    Simple Intrusion:
+        Games with virtual CD loader : daemon tools if used.
+    Use of Computer Forensics in Law Enforcement,
+        FTK Imager : https://www.youtube.com/watch?v=TkG4JqUcx_U&ab_channel=DFIRScience
+        dd command
+    https://codeonby.com/2022/05/07/python-for-data-recovery/
+-----------------
 
-Use of Computer Forensics in Law Enforcement,
-    FTK Imager : https://www.youtube.com/watch?v=TkG4JqUcx_U&ab_channel=DFIRScience
-    dd command.
+Study of HoneyPot:
+    Vulnerability understanding
+    https://www.sentinelone.com/cybersecurity-101/honeypot-cyber-security/?utm_campaignid=&utm_adgroup=&utm_target=&utm_device=c&utm_creative=5997744831829552714&utm_type=b&utm_network=&utm_adplacement=&utm_location=&utm_adposition=&utm_aceid=&utm_adgroupname=&gclid=EAIaIQobChMI-cDUm7WugAMVxIdLBR0oMgztEAAYASAAEgLryfD_BwE
+    asgn5_7
 
-WiFi:
-    aircrack-ng tool
+WireShark:
+    Demo with DNS
+
+Wi-Fi:
+    aircrack-ng toot
+
+Project:
+    asgn8

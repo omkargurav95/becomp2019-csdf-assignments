@@ -15,8 +15,8 @@ def manipulate_image(image_path, output_path):
         # Save the manipulated image
         manipulated_img.save(output_path)
 
-if __name__ == "__main__":
-    input_image_path = "logo.png"
+def manipulate(input_path):
+    input_image_path = input_path
     output_image_path = "manipulated_image.png"
 
     # Manipulate the input image
