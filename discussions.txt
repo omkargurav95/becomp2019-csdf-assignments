@@ -1,0 +1,60 @@
+Email Handling:
+    https://www.citchennai.edu.in/wp-content/uploads/2021/12/CN-UNIT-V.pdf
+    https://mailtrap.io/blog/email-headers/
+    References
+    SMTP protocols and agents.
+        https://web.karabuk.edu.tr/bilalkaya/file/smtp_pdf.pdf
+        https://www.citchennai.edu.in/wp-content/uploads/2021/12/CN-UNIT-V.pdf
+        https://www.youtube.com/watch?v=x28ciavQ4mI&ab_channel=CenterforCybersecurityInnovation%26Outreach
+    asgn1
+        go through the 1st link and understand SMTP and POP3(pull) change.
+        content-type eml display.Simple github mail header and then error parser for octect stream application.
+    Attack vector
+        spoof: 
+            https://www.kitterman.com/spf/validate.html
+            https://emkei.cz/ 
+
+Captcha:
+    Why captcha?
+    https://www.makeuseof.com/tag/how-do-captchas-work/#:~:text=It's%20because%20computers%20find%20it,to%20further%20obscure%20the%20message.
+    asgn2
+        code analysis
+    Attack vector:
+    https://geekflare.com/captcha-solving-services-api/
+
+
+Disk analysis:
+    Forensic background:
+        Why disk analysis is required
+    Simple Intrusion:
+        Games with virtual CD loader : daemon tools if used.
+    Use of Computer Forensics in Law Enforcement,
+        FTK Imager : https://www.youtube.com/watch?v=TkG4JqUcx_U&ab_channel=DFIRScience
+        dd command
+    https://codeonby.com/2022/05/07/python-for-data-recovery/
+        open hexfind for the bytes
+
+-----------------
+-----------------
+-----------------
+Study of HoneyPot:
+    Vulnerability understanding
+    https://www.sentinelone.com/cybersecurity-101/honeypot-cyber-security/?utm_campaignid=&utm_adgroup=&utm_target=&utm_device=c&utm_creative=5997744831829552714&utm_type=b&utm_network=&utm_adplacement=&utm_location=&utm_adposition=&utm_aceid=&utm_adgroupname=&gclid=EAIaIQobChMI-cDUm7WugAMVxIdLBR0oMgztEAAYASAAEgLryfD_BwE
+    
+    Dos and DDos 
+    Log capturing and Event Correlation
+    asgn5_7
+
+WireShark:
+    Demo with DNS
+
+Project:
+    asgn8
+
+
+Wi-Fi:
+    aircrack-ng tool
+
+
+
+
